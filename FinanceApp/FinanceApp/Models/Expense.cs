@@ -13,7 +13,7 @@ namespace FinanceApp.Models
         public double Amount { get; set; }
         [Required]
         public string Category {  get; set; }=null!;
-        [Required]
+    
         public DateTime date { get; set; } = DateTime.Now;
 
     }
