@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC_Core\\FinanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|d:\\mvc_core\\financeapp\\financeapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|d:\\mvc_core\\financeapp\\financeapp\\data\\service\\iexpensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\service\\iexpensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|d:\\mvc_core\\financeapp\\financeapp\\data\\service\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\service\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|d:\\mvc_core\\financeapp\\financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|d:\\mvc_core\\financeapp\\financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D00DF6D3-39A6-4164-B352-EC6A23FD182B}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpensesService.cs",
+              "DocumentMoniker": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Data\\Service\\ExpensesService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Service\\ExpensesService.cs",
+              "ToolTip": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Data\\Service\\ExpensesService.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\Service\\ExpensesService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:03:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExpensesService.cs",
+              "DocumentMoniker": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Data\\Service\\IExpensesService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Service\\IExpensesService.cs",
+              "ToolTip": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Data\\Service\\IExpensesService.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\Service\\IExpensesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:58:30.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Controllers\\ExpensesController.cs",
+              "ToolTip": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "FinanceApp\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA4wC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:26:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "ToolTip": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T06:32:37.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "ToolTip": "D:\\MVC_Core\\FinanceApp\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T06:31:17.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
